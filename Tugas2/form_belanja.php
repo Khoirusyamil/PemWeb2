@@ -21,7 +21,7 @@
 <div class="container mt-5">
   <div class="row">
     <div class="col-md-6 order-md-1">
-      <form action="" method="POST">
+      <form action="form_belanja.php" method="POST">
         <div class="form-group row mb-3">
             <label for="customer" class="col-4 col-form-label">Customer</label>
           <div class="col-8">
