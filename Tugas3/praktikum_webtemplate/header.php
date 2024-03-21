@@ -31,7 +31,7 @@
         <a href="#" class="nav-link">Profile</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Login</a>
+        <a href="login.php" class="nav-link">Login</a>
       </li>
     </ul>
 

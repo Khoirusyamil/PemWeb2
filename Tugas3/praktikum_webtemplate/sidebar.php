@@ -57,7 +57,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="index3.html" class="nav-link">
+                <a href="praktikum3.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>praktikum 3</p>
                 </a>
@@ -75,21 +75,15 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="index.html" class="nav-link">
+                <a href="tugas1.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Tugas 1</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="index2.html" class="nav-link">
+                <a href="tugas2.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Tugas 2</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Tugas 3</p>
                 </a>
               </li>
             </ul>
